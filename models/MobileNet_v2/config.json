@@ -1,0 +1,39 @@
+{
+    "num_classes": 14,
+    "hidden_size": 1280,
+    "id2label": {
+        "0": "basking",
+        "1": "blacktip",
+        "2": "blue",
+        "3": "bull",
+        "4": "hammerhead",
+        "5": "lemon",
+        "6": "mako",
+        "7": "nurse",
+        "8": "sand_tiger",
+        "9": "thresher",
+        "10": "tiger",
+        "11": "whale",
+        "12": "white",
+        "13": "whitetip"
+    },
+    "label2id": {
+        "basking": "0",
+        "blacktip": "1",
+        "blue": "2",
+        "bull": "3",
+        "hammerhead": "4",
+        "lemon": "5",
+        "mako": "6",
+        "nurse": "7",
+        "sand_tiger": "8",
+        "thresher": "9",
+        "tiger": "10",
+        "whale": "11",
+        "white": "12",
+        "whitetip": "13"
+    },
+    "architectures": [
+        "mobilenet_v2"
+    ]
+}
